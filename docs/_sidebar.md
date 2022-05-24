@@ -1,2 +1,4 @@
+<!-- docs/_sidebar.md -->
 * [Home](/)
-* [Guide](guide.md)
+* [Blog](/blog/)
+* [Ride](/ride/)
