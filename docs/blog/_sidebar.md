@@ -1,5 +1,9 @@
 * [Home](/)
 * [Blog](/blog/)
+  - [今天你笑了吗](/blog/shadiao.md)
+* [Dev](/dev/)
+* [Ride](/ride/)
+
 <!--   - [2014-08-05-android-dev-boutique-resources.md](/blog/2014-08-05-android-dev-boutique-resources.md)
   - [2014-05-14-best-resources-for-android-development.md](/blog/2014-05-14-best-resources-for-android-development.md)
   - [2014-03-24-android-context.md](/blog/2014-03-24-android-context.md)
@@ -17,4 +21,3 @@
   - [2013-04-30-android-good-good-study.md](/blog/2013-04-30-android-good-good-study.md)
   - [2013-04-30-android-fragment.md](/blog/2013-04-30-android-fragment.md)
   - [2013-04-30-android-fragment-communication.md](/blog/2013-04-30-android-fragment-communication.md) -->
-* [Ride](/ride/)

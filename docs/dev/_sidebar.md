@@ -1,0 +1,5 @@
+* [Home](/)
+* [Blog](/blog/)
+* [Dev](/dev/)
+   - [收集有趣的东西](/dev/collect-interesting-things.md)
+* [Ride](/ride/)

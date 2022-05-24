@@ -1,3 +1,4 @@
-# Headline blog
+# 这里更加随意的做点记录吧
 
-> An awesome project.
+
+[今天你笑了吗](blog/shadiao.md)
